@@ -12,7 +12,7 @@ If you don't plan on getting updates or making improvements you can simply copy 
 
 ###Option 2:
 
-If you would like to use git to keep up-to-date and to make improvements you can init a repository in your plugins folder.  Unfortunately Sublime Text doesn't support subfolders so you can only have a single repository in here.
+If you would like to use git to keep up-to-date and to make improvements you can init a repository in your packages folder.
 
     cd C:\Users\%USERNAME%\AppData\Roaming\Sublime Text 2\Packages
     git clone git://github.com/seanhoughton/SublimePerforce.git
